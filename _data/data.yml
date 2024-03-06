@@ -1,0 +1,315 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Junguang Jiang
+    tagline: Machine Learning researcher
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: JiangJunguang1123@outlook.com
+    phone:
+    website:
+    zhihu: JunguangJiang
+    linkedin: junguang-jiang-6b6848184
+    github: JunguangJiang
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: Chinese
+        level: Native
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am Junguang Jiang. I graduated from Tsinghua University under the supervision of Mingsheng Long. 
+      Now, I work as a machine learning engineer in the display advertising team at Alimama.
+
+      I created a Transfer Learning Library
+      <a href="https://github.com/thuml/Transfer-Learning-Library">TLlib</a>
+      and got over <img alt="GitHub stars" src="https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?style=social">.
+      
+      Here is my <a href="https://junguangjiang.github.io/files/resume.pdf">Chinese resume (中文简历)</a> and <a href="https://junguangjiang.github.io/files/resume_English.pdf">English resume</a>.
+ 
+#news:
+#    title: News
+#    intro: |
+#
+#
+#    posts:
+#        - time: April 2021
+#          title: Our new paper (uBAM) has officially been published at Nature Machine Intelligece!
+#
+#        - time: December 2020
+#          title: Defending my PhD Thesis. Magna cum Laude
+#
+#        - time: October 2020
+#          title: Starting a new position as Applied Scientist with AWS
+#
+#        - time: June 2020
+#          title: Outstanding Reviewer at CVPR 2020
+#
+#        - time: June 2020
+#          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+#
+#        - time: February 2020
+#          title: The work done during my internship was accepted as publication at CVPR 2020
+#
+#        - time: July 2019
+#          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+#
+#        - time: July 2019
+#          title: One paper accepted at ICCV19
+#
+#        - time: January 2019
+#          title: Selected as reviewer for ICCV19
+#
+#        - time: December 2018
+#          title: Selected as reviewer for CVPR19
+#
+#        - time: Sptember 2018
+#          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#
+#        - time: July 2018
+#          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#
+#        - time: 2018
+#          title: Paper accepted as poster at ECCV18 in Munich, Germany
+#
+#        - time: 2017
+#          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+#
+#        - time: 2017
+#          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+
+education:
+
+#    - degree: Internship
+#      university: Y-tech, Kuaishou Technology
+#      time: 2020-2021
+#      details: |
+#        - Research transfer algorithms for 3D and 2D keypoint detection.
+#        - Related work is published at CVPR2020.
+
+
+    - degree: Master's Degree in Software Engineering
+      university: Tsinghua University (Beijing, China)
+      time: 2020 - 2023
+      details: |
+        - Advised by [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)
+        - Comprehensive Excellence Award (Huawei Scholarship, top 5%), Tsinghua University, 2021
+
+    - degree: Bachelor's Degree in Software Engineering
+      university: Tsinghua University (Beijing, China)
+      time: 2015 - 2020
+      details: |
+        - GPA **3.9** Ranking **2nd/83**
+        - National Scholarship (top 1%), Tsinghua University, 2019
+        - Comprehensive Excellence Award (Huawei Scholarship, top 1%), Tsinghua University, 2018
+
+
+#educationcomplete:
+#    - degree: Applied Scientist full-time at AWS
+#      university: Germany
+#      time: 2020 Oct - current
+#      details: |
+#
+#    - degree: Applied Scientists Intern at AWS
+#      university: P. Perona, Pasadena, CA, USA
+#      time: 2019 July - Dec
+#      details: |
+#
+#    - degree: PhD in Computer vision and Machine learning
+#      university: Heidelberg University
+#      time: 2015 - 2020
+#      details: |
+#        Unsupervised deep learning for automatic behavior analysis
+#
+#          - Unsupervised learning
+#          - Representaion learning
+#          - Automatic Behavior Analysis
+#
+#    - degree: Internship (Master Thesis)
+#      university: Tobii
+#      time: 2014 - 2015
+#      details: |
+#        Master thesis topic Hand gesture classification by Deep learning using infrared camera
+#
+#          - Deep learning
+#          - Hand Gesture
+#
+#    - degree: Master Degree
+#      university: KTH (Stockholm, Sweden)
+#      time: 2013 - 2015
+#      details: |
+#        Master degree in Computer Science and Artificial Intelligence
+#
+#          - Artificial Intelligence
+#          - Machine Learning
+#          - Computer Vision
+#
+#    - degree: Master Degree
+#      university: Politecnico di Torino (Torino, Italy)
+#      time: 2012 - 2015
+#      details: |
+#        Master degree in Software Engineering
+#
+#    - degree: Bachelor Degree
+#      university: Politecnico di Torino (Torino, Italy)
+#      time: 2009 - 2012
+#      details: |
+#        Master degree in Computer Engineering
+
+
+experiences:
+    - role: Internship
+      time: 2022-2023
+      company: Tencent Inc, China
+      details: |
+        - Research on multi-task learning, mainly for recommendation tasks
+        
+    - role: Teaching Assistant
+      time: 2021
+      company: Tsinghua University
+      details: |
+        Teaching Assistant for Machine Learning, Fall 2021
+
+    - role: Internship
+      time: 2020-2021
+      company: Y-tech, Kuaishou Technology
+      details: |
+        - Research on transfer learning for both 3D and 2D keypoint detection,
+        which is then applied to the Augmented Reality (AR) applications.
+        - Propose regressive domain adaptation methods for unsupervised keypoint detection
+        to decrease the labeling cost for 3D and 2D keypoints of hand gestures.
+        - Related work is published at CVPR2020.
+
+    #- role: Senior Software Engineer
+      #time: 2014 - 2015
+      #company: Google, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+projects:
+    title: Projects
+    intro: >
+
+    assignments:
+      - title: Open Source Libraries -- TLlib <img alt="GitHub stars" src="https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?style=social">
+        link: "https://github.com/thuml/Transfer-Learning-Library"
+        tagline: |
+           - An open-source and well-documented library for Transfer Learning, Domain Adaptation, Task Adaptation, and Domain Generalization.
+           - First Author and contribute more than 20k lines of code.
+
+      - title: Selected Course Projects -- TinyCCompiler
+        link: "https://github.com/JunguangJiang/TinyCCompiler"
+        tagline: |
+          - A tiny C compiler based on LLVM and ANTLR4.
+          - Project for Compiler Principles which is scored A+.
+          - First Author and responsible for implementing symbol tables, error handling, functions, arrays, pointers, etc.
+
+
+publications:
+    title: Publications
+    intro: |
+
+
+    papers:
+      - title: "ForkMerge: Overcoming Negative Transfer in Multi-Task Learning"
+        authors: <b>Junguang Jiang</b>, Baixu Chen, Junwei Pan, Ximei Wang, Liu Dapeng, Jie Jiang, Mingsheng Long
+        paper: "https://arxiv.org/pdf/2301.12618.pdf"
+        conference: Conference and Workshop on Neural Information Processing Systems (NIPS), 2023
+        
+      - title: "Transferability in Deep Learning: A Survey"
+        authors: <b>Junguang Jiang</b>, Yang Shu, Jianmin Wang, Mingsheng Long
+        conference: arixv, 2022
+        paper: "https://junguangjiang.github.io/files/Transferable_Deep_Learning__A_Survey.pdf"
+        code: 
+
+      - title: "Debiased Pseudo Labeling in Self-Training"
+        authors: Baixu Chen, <b>Junguang Jiang (co-first authors)</b>, Ximei Wang, Jianmin Wang, Mingsheng Long 
+        conference: Conference and Workshop on Neural Information Processing Systems (NIPS Oral), 2022
+        paper: "https://openreview.net/pdf?id=NI7moUOKtc"
+        code: "https://github.com/thuml/Debiased-Self-Training"
+        poster: "https://neurips.cc/media/PosterPDFs/NeurIPS%202022/08f90c1a417155361a5c4b8d297e0d78.png?t=1666668047.4378536"
+        slide: "https://neurips.cc/media/neurips-2022/Slides/55076.pdf"
+        video: "https://nips.cc/virtual/2022/poster/55076"
+
+      - title: "Decoupled Adaptation for Cross-Domain Object Detection"
+        authors: <b>Junguang Jiang</b>, Baixu Chen, Jianmin Wang, Mingsheng Long
+        conference: The Tenth International Conference on Learning Representations (ICLR), 2022
+        paper: "https://openreview.net/pdf?id=VNqaB1g9393"
+        code: "https://github.com/thuml/Transfer-Learning-Library/tree/dev-tllib/examples/domain_adaptation/object_detection/d_adapt"
+        poster: "https://junguangjiang.github.io/files/D_adapt_poster.pdf"
+        slide: "https://junguangjiang.github.io/files/D_adapt_slides.pdf"
+        video: "https://iclr.cc/virtual/2022/poster/6215"
+        chinese_video: "https://www.bilibili.com/video/BV1BW4y1672F?p=1&share_medium=android&share_plat=android&share_session_id=44c15f62-85f1-46b6-b310-a82967a70cad&share_source=COPY&share_tag=s_i&timestamp=1656334634&unique_k=JQeg1oW&vd_source=e40849daa6bf5bc6d7b2d6f9c0b4b7d6"
+        
+        
+      - title: "Regressive Domain Adaptation for Unsupervised Keypoint Detection"
+        authors: <b>Junguang Jiang</b>, Yifei Ji, Ximei Wang, Yufeng Liu, Jianmin Wang, Mingsheng Long
+        conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+        paper: "https://arxiv.org/pdf/2103.06175.pdf"
+        code: "https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection"
+        poster: "https://junguangjiang.github.io/files/RegDA_poster.pdf"
+        slide: "https://junguangjiang.github.io/files/RegDA_slides.pdf"
+        video: "https://www.youtube.com/watch?v=zXBpPEOFO8E"
+    
+      - title: "Resource Efficient Domain Adaptation"
+        authors: <b>Junguang Jiang</b>, Ximei Wang, Mingsheng Long, and Jianmin Wang
+        conference: ACM Annual Conference on Multimedia (ACMMM), 2020 (Oral)
+        paper: "https://junguangjiang.github.io/files/resource-efficient-domain-adaptation-acmmm20.pdf"
+        code:
+
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python
+#        level: 100%
+#
+#      - name: PyTorch
+#        level: 95%
+#
+#      - name: C/C++
+#        level: 75%
+#
+#      - name: Java
+#        level: 75%
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
