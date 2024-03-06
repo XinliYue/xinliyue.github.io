@@ -7,17 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Junguang Jiang
-    tagline: Machine Learning researcher
+    name: Xinli Yue
+    tagline: Machine Learning Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: JiangJunguang1123@outlook.com
+    email: xinliyue@whu.edu.cn
     phone:
     website:
-    zhihu: JunguangJiang
-    linkedin: junguang-jiang-6b6848184
-    github: JunguangJiang
+    github: XinliYue
     gitlab:
     bitbucket:
     twitter:
@@ -35,14 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Junguang Jiang. I graduated from Tsinghua University under the supervision of Mingsheng Long. 
-      Now, I work as a machine learning engineer in the display advertising team at Alimama.
-
-      I created a Transfer Learning Library
-      <a href="https://github.com/thuml/Transfer-Learning-Library">TLlib</a>
-      and got over <img alt="GitHub stars" src="https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?style=social">.
-      
-      Here is my <a href="https://junguangjiang.github.io/files/resume.pdf">Chinese resume (中文简历)</a> and <a href="https://junguangjiang.github.io/files/resume_English.pdf">English resume</a>.
+      I am Xinli Yue, a master student at the <a href="http://nisplab.whu.edu.cn/index.html">NIS&P Lab</a> of Wuhan University, under the supervision of <a href="http://nisplab.whu.edu.cn/people.html">Qian Wang</a>.
  
 #news:
 #    title: News
@@ -105,20 +96,18 @@ education:
 #        - Related work is published at CVPR2020.
 
 
-    - degree: Master's Degree in Software Engineering
-      university: Tsinghua University (Beijing, China)
-      time: 2020 - 2023
+    - degree: Master's Degree in Cyberspace Security
+      university: Wuhan University
+      time: 2022 - 2025
       details: |
-        - Advised by [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)
-        - Comprehensive Excellence Award (Huawei Scholarship, top 5%), Tsinghua University, 2021
+        - Advised by [Qian Wang](http://nisplab.whu.edu.cn/people.html)
 
-    - degree: Bachelor's Degree in Software Engineering
-      university: Tsinghua University (Beijing, China)
-      time: 2015 - 2020
+    - degree: Bachelor's Degree in Information Security
+      university: Wuhan University
+      time: 2018 - 2022
       details: |
-        - GPA **3.9** Ranking **2nd/83**
-        - National Scholarship (top 1%), Tsinghua University, 2019
-        - Comprehensive Excellence Award (Huawei Scholarship, top 1%), Tsinghua University, 2018
+        - Outstanding undergraduate graduate of Wuhan University, 2022
+        - Luoge-Tianyou Scholarship (top 1%), Wuhan University, 2021
 
 
 #educationcomplete:
@@ -174,28 +163,7 @@ education:
 #        Master degree in Computer Engineering
 
 
-experiences:
-    - role: Internship
-      time: 2022-2023
-      company: Tencent Inc, China
-      details: |
-        - Research on multi-task learning, mainly for recommendation tasks
-        
-    - role: Teaching Assistant
-      time: 2021
-      company: Tsinghua University
-      details: |
-        Teaching Assistant for Machine Learning, Fall 2021
-
-    - role: Internship
-      time: 2020-2021
-      company: Y-tech, Kuaishou Technology
-      details: |
-        - Research on transfer learning for both 3D and 2D keypoint detection,
-        which is then applied to the Augmented Reality (AR) applications.
-        - Propose regressive domain adaptation methods for unsupervised keypoint detection
-        to decrease the labeling cost for 3D and 2D keypoints of hand gestures.
-        - Related work is published at CVPR2020.
+# experiences:
 
     #- role: Senior Software Engineer
       #time: 2014 - 2015
@@ -223,24 +191,6 @@ experiences:
           #- Bullet point
           #- Bullet point
 
-projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: Open Source Libraries -- TLlib <img alt="GitHub stars" src="https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?style=social">
-        link: "https://github.com/thuml/Transfer-Learning-Library"
-        tagline: |
-           - An open-source and well-documented library for Transfer Learning, Domain Adaptation, Task Adaptation, and Domain Generalization.
-           - First Author and contribute more than 20k lines of code.
-
-      - title: Selected Course Projects -- TinyCCompiler
-        link: "https://github.com/JunguangJiang/TinyCCompiler"
-        tagline: |
-          - A tiny C compiler based on LLVM and ANTLR4.
-          - Project for Compiler Principles which is scored A+.
-          - First Author and responsible for implementing symbol tables, error handling, functions, arrays, pointers, etc.
-
 
 publications:
     title: Publications
@@ -248,51 +198,24 @@ publications:
 
 
     papers:
-      - title: "ForkMerge: Overcoming Negative Transfer in Multi-Task Learning"
-        authors: <b>Junguang Jiang</b>, Baixu Chen, Junwei Pan, Ximei Wang, Liu Dapeng, Jie Jiang, Mingsheng Long
-        paper: "https://arxiv.org/pdf/2301.12618.pdf"
-        conference: Conference and Workshop on Neural Information Processing Systems (NIPS), 2023
+      - title: "Revisiting Adversarial Training under Long-Tailed Distributions"
+        authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
+        conference: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2024
+        # paper: ""
+        code: "https://github.com/NISP-official/AT-BSL"
         
-      - title: "Transferability in Deep Learning: A Survey"
-        authors: <b>Junguang Jiang</b>, Yang Shu, Jianmin Wang, Mingsheng Long
-        conference: arixv, 2022
-        paper: "https://junguangjiang.github.io/files/Transferable_Deep_Learning__A_Survey.pdf"
-        code: 
+      - title: "Revisiting Adversarial Robustness Distillation from the Perspective of Robust Fairness"
+        authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
+        conference: Advances in Neural Information Processing Systems (NeurIPS), 2023
+        paper: "https://proceedings.neurips.cc/paper_files/paper/2023/file/6111371a868af8dcfba0f96ad9e25ae3-Paper-Conference.pdf"
+        code: "https://github.com/NISP-official/Fair-ARD"
+        poster: "https://neurips.cc/media/PosterPDFs/NeurIPS%202023/69921.png?t=1701418261.6305044"
+        slide: "https://neurips.cc/media/neurips-2023/Slides/69921.pdf"
+        video: "https://neurips.cc/virtual/2023/poster/69921"
 
-      - title: "Debiased Pseudo Labeling in Self-Training"
-        authors: Baixu Chen, <b>Junguang Jiang (co-first authors)</b>, Ximei Wang, Jianmin Wang, Mingsheng Long 
-        conference: Conference and Workshop on Neural Information Processing Systems (NIPS Oral), 2022
-        paper: "https://openreview.net/pdf?id=NI7moUOKtc"
-        code: "https://github.com/thuml/Debiased-Self-Training"
-        poster: "https://neurips.cc/media/PosterPDFs/NeurIPS%202022/08f90c1a417155361a5c4b8d297e0d78.png?t=1666668047.4378536"
-        slide: "https://neurips.cc/media/neurips-2022/Slides/55076.pdf"
-        video: "https://nips.cc/virtual/2022/poster/55076"
-
-      - title: "Decoupled Adaptation for Cross-Domain Object Detection"
-        authors: <b>Junguang Jiang</b>, Baixu Chen, Jianmin Wang, Mingsheng Long
-        conference: The Tenth International Conference on Learning Representations (ICLR), 2022
-        paper: "https://openreview.net/pdf?id=VNqaB1g9393"
-        code: "https://github.com/thuml/Transfer-Learning-Library/tree/dev-tllib/examples/domain_adaptation/object_detection/d_adapt"
-        poster: "https://junguangjiang.github.io/files/D_adapt_poster.pdf"
-        slide: "https://junguangjiang.github.io/files/D_adapt_slides.pdf"
-        video: "https://iclr.cc/virtual/2022/poster/6215"
-        chinese_video: "https://www.bilibili.com/video/BV1BW4y1672F?p=1&share_medium=android&share_plat=android&share_session_id=44c15f62-85f1-46b6-b310-a82967a70cad&share_source=COPY&share_tag=s_i&timestamp=1656334634&unique_k=JQeg1oW&vd_source=e40849daa6bf5bc6d7b2d6f9c0b4b7d6"
-        
-        
-      - title: "Regressive Domain Adaptation for Unsupervised Keypoint Detection"
-        authors: <b>Junguang Jiang</b>, Yifei Ji, Ximei Wang, Yufeng Liu, Jianmin Wang, Mingsheng Long
-        conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
-        paper: "https://arxiv.org/pdf/2103.06175.pdf"
-        code: "https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection"
-        poster: "https://junguangjiang.github.io/files/RegDA_poster.pdf"
-        slide: "https://junguangjiang.github.io/files/RegDA_slides.pdf"
-        video: "https://www.youtube.com/watch?v=zXBpPEOFO8E"
-    
-      - title: "Resource Efficient Domain Adaptation"
-        authors: <b>Junguang Jiang</b>, Ximei Wang, Mingsheng Long, and Jianmin Wang
-        conference: ACM Annual Conference on Multimedia (ACMMM), 2020 (Oral)
-        paper: "https://junguangjiang.github.io/files/resource-efficient-domain-adaptation-acmmm20.pdf"
-        code:
+      - title: "Fairness is Essential for Robustness: Fair Adversarial Training by Identifying and Augmenting Hard Examples"
+        authors: Ningping Mou, <b>Xinli Yue</b>, Lingchen Zhao, Qian Wang
+        journal: Frontiers of Computer Science (FCS)
 
 #skills:
 #    title: Skills &amp; Proficiency
