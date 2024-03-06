@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Xinli Yue
     tagline: Machine Learning Researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: xinliyue.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: xinliyue@whu.edu.cn
@@ -200,7 +200,7 @@ publications:
     papers:
       - title: "Revisiting Adversarial Training under Long-Tailed Distributions"
         authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
-        conference: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2024
+        conference: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
         # paper: ""
         code: "https://github.com/NISP-official/AT-BSL"
         
@@ -215,7 +215,7 @@ publications:
 
       - title: "Fairness is Essential for Robustness: Fair Adversarial Training by Identifying and Augmenting Hard Examples"
         authors: Ningping Mou, <b>Xinli Yue</b>, Lingchen Zhao, Qian Wang
-        journal: Frontiers of Computer Science (FCS)
+        conference: Frontiers of Computer Science (FCS)
 
 #skills:
 #    title: Skills &amp; Proficiency
