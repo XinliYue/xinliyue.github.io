@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: xinliyue@whu.edu.cn
     phone:
-    website:
+    website: <a href="https://scholar.google.com/citations?user=mQ8pPpIAAAAJ&hl=en&oi=sra">Google Scholar</a>
     github: XinliYue
     gitlab:
     bitbucket:
@@ -100,7 +100,8 @@ education:
       university: Wuhan University
       time: 2022 - 2025
       details: |
-        - Advised by [Qian Wang](http://nisplab.whu.edu.cn/people.html)
+        - Graduate Study Scholarship, 2023
+        - "China Optics Valley·Huawei Cup" 19th China Graduate Mathematics Modeling Competition, National Third Prize, 2022
 
     - degree: Bachelor's Degree in Information Security
       university: Wuhan University
@@ -108,6 +109,9 @@ education:
       details: |
         - Outstanding undergraduate graduate of Wuhan University, 2022
         - Luoge-Tianyou Scholarship (top 1%), Wuhan University, 2021
+        - The 12th National College Student Mathematics Competition (Non-mathematics Category), Third Prize, 2020
+        - National College Students' Mathematical Modeling Contest, Hubei Provincial Second Prize, 2020
+        - The 11th National College Student Mathematics Competition (Non-mathematics Category), Third Prize, 2019
 
 
 #educationcomplete:
