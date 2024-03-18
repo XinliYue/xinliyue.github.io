@@ -206,7 +206,7 @@ publications:
         authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
         conference: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
         paper: "https://arxiv.org/pdf/2403.10073.pdf"
-        code: "https://github.com/NISP-official/AT-BSL"
+        code: "https://github.com/NISPLab/AT-BSL"
         
       - title: "Revisiting Adversarial Robustness Distillation from the Perspective of Robust Fairness"
         authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
