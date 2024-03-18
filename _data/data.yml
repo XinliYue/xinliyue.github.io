@@ -205,7 +205,7 @@ publications:
       - title: "Revisiting Adversarial Training under Long-Tailed Distributions"
         authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
         conference: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-        # paper: ""
+        paper: "https://arxiv.org/pdf/2403.10073.pdf"
         code: "https://github.com/NISP-official/AT-BSL"
         
       - title: "Revisiting Adversarial Robustness Distillation from the Perspective of Robust Fairness"
@@ -220,6 +220,7 @@ publications:
       - title: "Fairness is Essential for Robustness: Fair Adversarial Training by Identifying and Augmenting Hard Examples"
         authors: Ningping Mou, <b>Xinli Yue</b>, Lingchen Zhao, Qian Wang
         conference: Frontiers of Computer Science (FCS)
+        paper: "https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=37065"
 
 #skills:
 #    title: Skills &amp; Proficiency
