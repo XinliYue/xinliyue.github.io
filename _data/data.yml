@@ -167,20 +167,13 @@ education:
 #        Master degree in Computer Engineering
 
 
-# experiences:
+experiences:
 
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
+    - role: Computer Vision Algorithm Engineer
+      time: 2024.5 - 2024.8
+      company: WeChat, Guangzhou
+      details: |
+        Research on Video Quality Assessment for WeChat Channels.
 
     #- role: UI Developer
       #time: 2012 - 2014
@@ -207,6 +200,9 @@ publications:
         conference: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
         paper: "https://arxiv.org/pdf/2403.10073.pdf"
         code: "https://github.com/NISPLab/AT-BSL"
+        poster: "https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202024/29795.png?t=1717352115.3885567"
+        slide: "https://cvpr2023.thecvf.com/media/cvpr-2024/Slides/29795.pdf"
+        video: "https://youtu.be/o_1e9mL5LBM"
         
       - title: "Revisiting Adversarial Robustness Distillation from the Perspective of Robust Fairness"
         authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
@@ -220,7 +216,7 @@ publications:
       - title: "Fairness is Essential for Robustness: Fair Adversarial Training by Identifying and Augmenting Hard Examples"
         authors: Ningping Mou, <b>Xinli Yue</b>, Lingchen Zhao, Qian Wang
         conference: Frontiers of Computer Science (FCS)
-        paper: "https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=37065"
+        paper: "https://journal.hep.com.cn/fcs/EN/abstract/article/2095-2228/37065"
 
 #skills:
 #    title: Skills &amp; Proficiency
