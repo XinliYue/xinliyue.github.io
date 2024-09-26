@@ -218,6 +218,14 @@ publications:
         conference: Frontiers of Computer Science (FCS)
         paper: "https://journal.hep.com.cn/fcs/EN/abstract/article/2095-2228/37065"
 
+      - title: "Revisiting Video Quality Assessment from the Perspective of Generalization"
+        authors: <b>Xinli Yue</b>, Jianhui Sun, Liangchao Yao, Fan Xia, Yuetang Deng, Tianyi Wang, Lei Li, Fengyun Rao, Jing Lv, Qian Wang, Lingchen Zhao
+        paper: "https://arxiv.org/pdf/2409.14847"
+
+      - title: "Advancing Video Quality Assessment for AIGC"
+        authors: <b>Xinli Yue</b>, Jianhui Sun, Han Kong, Liangchao Yao, Tianyi Wang, Lei Li, Fengyun Rao, Jing Lv, Fan Xia, Yuetang Deng, Qian Wang, Lingchen Zhao
+        paper: "https://arxiv.org/pdf/2409.14888"
+
 #skills:
 #    title: Skills &amp; Proficiency
 #
