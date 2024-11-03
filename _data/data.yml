@@ -221,6 +221,7 @@ publications:
       - title: "Revisiting Video Quality Assessment from the Perspective of Generalization"
         authors: <b>Xinli Yue</b>, Jianhui Sun, Liangchao Yao, Fan Xia, Yuetang Deng, Tianyi Wang, Lei Li, Fengyun Rao, Jing Lv, Qian Wang, Lingchen Zhao
         paper: "https://arxiv.org/pdf/2409.14847"
+        code: "https://github.com/XinliYue/VQA-Generalization"
 
       - title: "Advancing Video Quality Assessment for AIGC"
         authors: <b>Xinli Yue</b>, Jianhui Sun, Han Kong, Liangchao Yao, Tianyi Wang, Lei Li, Fengyun Rao, Jing Lv, Fan Xia, Yuetang Deng, Qian Wang, Lingchen Zhao
