@@ -33,7 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Xinli Yue, a master student at the <a href="http://nisplab.whu.edu.cn/index.html">NIS&P Lab</a> of Wuhan University, supervised by <a href="https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en&oi=ao">Qian Wang</a>. My research focuses on AI security and adversarial training. I have also served as a reviewer for TNNLS.
+      I am Xinli Yue, a master student at the <a href="http://nisplab.whu.edu.cn/index.html">NIS&P Lab</a> of Wuhan University, supervised by <a href="https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en&oi=ao">Qian Wang</a>. My research focuses on adversarial training and video quality assessment. I have also served as a reviewer for TPAMI and TNNLS.
  
 #news:
 #    title: News
@@ -100,6 +100,7 @@ education:
       university: Wuhan University
       time: 2022 - 2025
       details: |
+        - National Scholarship, 2024
         - Graduate Study Scholarship, 2023
         - "China Optics Valley·Huawei Cup" 19th China Graduate Mathematics Modeling Competition, National Third Prize, 2022
 
