@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: xinliyue@whu.edu.cn
     phone:
-    website:
-    github: XinliYue
+    website: https://scholar.google.com/citations?user=mQ8pPpIAAAAJ&hl=en
+    github:
     gitlab:
     bitbucket:
     twitter:
@@ -33,7 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Xinli Yue, a master student at the <a href="http://nisplab.whu.edu.cn/index.html">NIS&P Lab</a> of Wuhan University, supervised by <a href="https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en&oi=ao">Qian Wang</a>. My research focuses on adversarial training and video quality assessment. I have also served as a reviewer for TPAMI and TNNLS.
+      I am Xinli Yue, currently working as an Algorithm Engineer at WeChat. I graduated from Wuhan University, where I was a master student at the <a href="http://nisplab.whu.edu.cn/index.html">NIS&P Lab</a>, supervised by <a href="https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en&oi=ao">Qian Wang</a>. My research focuses on adversarial training and video quality assessment. I have also served as a reviewer for TNNLS, TIP, TPAMI, and NeurIPS.
  
 #news:
 #    title: News
@@ -100,6 +100,7 @@ education:
       university: Wuhan University
       time: 2022 - 2025
       details: |
+        - Outstanding graduate student of Wuhan University, 2025
         - National Scholarship, 2024
         - Graduate Study Scholarship, 2023
         - "China Optics Valley·Huawei Cup" 19th China Graduate Mathematics Modeling Competition, National Third Prize, 2022
@@ -196,10 +197,15 @@ publications:
 
 
     papers:
+      - title: "Instruction-augmented Multimodal Alignment for Image-Text and Element Matching"
+        authors: <b>Xinli Yue</b>, JianHui Sun, Junda Lu, Liangchao Yao, Fan Xia, Tianyi Wang, Fengyun Rao, Jing Lyu, Yuetang Deng
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025
+        paper: "https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/papers/Yue_Instruction-augmented_Multimodal_Alignment_for_Image-Text_and_Element_Matching_CVPRW_2025_paper.pdf"
+
       - title: "Revisiting Adversarial Training under Long-Tailed Distributions"
         authors: <b>Xinli Yue</b>, Ningping Mou, Qian Wang, Lingchen Zhao
-        conference: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-        paper: "https://arxiv.org/pdf/2403.10073.pdf"
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+        paper: "https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Revisiting_Adversarial_Training_Under_Long-Tailed_Distributions_CVPR_2024_paper.pdf"
         code: "https://github.com/NISPLab/AT-BSL"
         poster: "https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202024/29795.png?t=1717352115.3885567"
         slide: "https://cvpr2023.thecvf.com/media/cvpr-2024/Slides/29795.pdf"
