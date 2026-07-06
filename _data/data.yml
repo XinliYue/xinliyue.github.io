@@ -33,7 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Xinli Yue, currently working as an Algorithm Engineer at WeChat. I graduated from Wuhan University, where I was a master student at the <a href="http://nisplab.whu.edu.cn">NIS&P Lab</a>, supervised by <a href="https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en&oi=ao">Qian Wang</a>. My research focuses on adversarial training and video quality assessment. I have also served as a reviewer for TNNLS, TIP, TPAMI, and NeurIPS.
+      I am Xinli Yue, currently working as an Algorithm Engineer at WeChat. I graduated from Wuhan University, where I was a master student at the <a href="http://nisplab.whu.edu.cn">NIS&P Lab</a>, supervised by <a href="https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en&oi=ao">Qian Wang</a>. My research focuses on adversarial training and video quality assessment. I have also served as a reviewer for TNNLS, TIP, IJCV, TPAMI, ECCV and NeurIPS.
  
 #news:
 #    title: News
@@ -197,6 +197,16 @@ publications:
 
 
     papers:
+      - title: "iDiff: Interpretable Difference-aware Framework for Pairwise Image Quality Assessment"
+        authors: <b>Xinli Yue</b>, JianHui Sun, Tao Shao, Liangchao Yao, Fan Xia, Yuetang Deng
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026
+        paper: "https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Yue_iDiff_Interpretable_Difference-aware_Framework_for_Pairwise_Image_Quality_Assessment_CVPRW_2026_paper.pdf"
+
+      - title: "iDETEX: Empowering MLLMs for Intelligent DETailed EXplainable IQA"
+        authors: Zhaoran Zhao, <b>Xinli Yue</b>, Jianhui Sun, Yuhao Xie, Tao Shao, Liangchao Yao, Fan Xia, Yuetang Deng
+        conference: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2025
+        paper: "https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_iDETEX_Empowering_MLLMs_for_Intelligent_DETailed_EXplainable_IQA_ICCVW_2025_paper.pdf"
+
       - title: "Instruction-augmented Multimodal Alignment for Image-Text and Element Matching"
         authors: <b>Xinli Yue</b>, JianHui Sun, Junda Lu, Liangchao Yao, Fan Xia, Tianyi Wang, Fengyun Rao, Jing Lyu, Yuetang Deng
         conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2025
